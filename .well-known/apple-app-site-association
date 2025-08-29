@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "26GBH83K6D.uz.agrobank.mobile-ios",
+        "paths": [
+          "/link/myid/*",
+          "/link/*",
+          "*"
+        ]
+      }
+    ]
+  }
+}
